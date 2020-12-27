@@ -2,6 +2,9 @@ https://github.com/orsinium-labs/python-lambda-calculus.git
 
 https://learnxinyminutes.com/docs/lambda-calculus/
 
+
+https://github.com/hyper-neutrino/lambda-calculus
+
 check this series of posts:
 
 https://medium.com/@emlynoregan/manually-rewriting-recursive-inner-functions-to-be-serialisable-in-python-83895792b176
